@@ -3,7 +3,7 @@
     "background_color": "#421f96",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "index.html",
     "name": "Reportes PWA",
     "short_name": "rpwa",
     "description": "No le ented\u00ed a nada",
